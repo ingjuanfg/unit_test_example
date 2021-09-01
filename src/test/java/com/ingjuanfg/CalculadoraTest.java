@@ -5,17 +5,17 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class PersonTest {
+public class CalculadoraTest {
 
-    @Test
-    public void sumaEntreDosNumerosExitosaTest(){
+/*    @Test
+    public void testSumaEntreDosNumerosExitosa(){
         Calculadora calculadora = new Calculadora();
         assertEquals(6, calculadora.suma(5,1));
     }
 
     @Test
-    public void sumaEntreDosNumerosFallidaTest(){
+    public void testSumaEntreDosNumerosFallida(){
         Calculadora calculadora = new Calculadora();
         Assertions.assertNotEquals(8, calculadora.suma(5,1));
-    }
+    }*/
 }

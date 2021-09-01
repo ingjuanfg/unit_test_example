@@ -1,7 +1,7 @@
 package com.ingjuanfg;
 
 public class Calculadora {
-    private String numUno;
+/*    private String numUno;
     private String numDos;
 
     public String getNumUno() {
@@ -22,5 +22,5 @@ public class Calculadora {
 
     public int suma(int numUno, int numDos){
         return numUno + numDos;
-    }
+    }*/
 }
