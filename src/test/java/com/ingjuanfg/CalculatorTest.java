@@ -18,4 +18,10 @@ public class CalculatorTest {
         Calculator calculator = new Calculator();
         assertNotEquals(8, calculator.suma(1,2));
     }
+    
+    @Test
+    public void testSumarTresEnterosFallida(){
+        Calculator calculator = new Calculator();
+        assertNotEquals(8, calculator.suma(1,2));
+    }
 }
